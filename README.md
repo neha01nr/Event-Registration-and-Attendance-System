@@ -2,34 +2,48 @@ The Event Registration and Attendance SystemMmmm is a versatile PHP/MySQLi proje
 
 Admin Side:
 Allows admin users to log in by providing their system credentials.
+
 Home Page:
 The default landing page after admin login.
+
 New Event Page:
 Enables admin users to create new events.
+
 Event List Page:
 Lists all events with options to edit, view, and delete events.
+
 New Attendee Page:
 Lets admin users create new attendees.
+
 Attendee List Page:
 Lists all attendees with options to edit, view, and delete attendees.
+
 Attendance Page:
 Displays attendance reports for each event.
+
 New User Page:
 Allows admin users to create new system users.
+
 User List Page:
 Lists all system users with options to edit, view, and delete users.
 
 Registrar Side:
+
 Login Page:
 Allows registrar users to log in using their credentials to manage event registration and attendance.
+
 Events Page:
 Displays events assigned to the logged-in registrar.
+
 Event's Attendees List Page:
 Lists and allows management of attendees, including toggling attendance status.
+
 Event Attendees Registration Modal:
 A popup modal for registrar users to submit new event attendee details.
+
 Attendee's Details Modal:
 A popup modal displaying attendee details.
+
 Registrar's Manage Account Page:
 Allows registrars to manage their system credentials.
 
